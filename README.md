@@ -93,11 +93,10 @@ python inference.py --config configs/infer_config.yaml
 ```
 
 
-## 🖼️ Demo
 
 ### Qualitative Comparison
 <div align="center">
-<img width="800" alt="comparison" src="./asset/comparison.png">
+<img width="800" alt="comparison" src="./asset/Compare.png">
 </div>
 
 
