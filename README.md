@@ -111,10 +111,11 @@ For academic use, this project is licensed under the [2-clause BSD License](http
 If you find this project useful in your research, please consider to cite:
 
 ```BibTeX
-@inproceedings{xia2026ifp,
+@inproceedings@inproceedings{xia2026instruction,
   title={Instruction-Focus-Prompt: Semantics-Driven Structural Prompts for Universal SAM Segmentation},
-  author={Xia, Shuqi and Shi, Guangze and Cao, Jiarui and Shi, Aoyuan and Liu, Meilin and Zhang, Xiaoyi and Wang, Yujie and Liu, Xueyu and Zhao, Cai and Wu, Yongfei and Wei, Mingqiang and He, Ziyuan},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings},
+  author={Xia, Shuqi and Shi, Guangze and Cao, Jiarui and Shi, Aoyuan and Liu, Meilin and Zhang, Xiaoyi and Wang, Yujie and Liu, Xueyu and Zhao, Cai and He, Ziyuan and others},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7514--7519},
   year={2026}
 }
 ```
